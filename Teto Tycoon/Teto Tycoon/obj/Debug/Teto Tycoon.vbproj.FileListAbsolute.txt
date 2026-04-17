@@ -1,0 +1,12 @@
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.exe.config
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.exe
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.pdb
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.xml
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbprojAssemblyReference.cache
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto_Tycoon.Form1.resources
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto_Tycoon.Resources.resources
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbproj.GenerateResource.cache
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbproj.CoreCompileInputs.cache
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.exe
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.xml
+C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.pdb
