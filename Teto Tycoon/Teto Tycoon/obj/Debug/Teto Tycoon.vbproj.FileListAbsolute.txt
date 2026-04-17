@@ -10,3 +10,15 @@ C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbpro
 C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.exe
 C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.xml
 C:\Users\win512\source\repos\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.pdb
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.exe.config
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.exe
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.pdb
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\bin\Debug\Teto Tycoon.xml
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbprojAssemblyReference.cache
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto_Tycoon.Form1.resources
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto_Tycoon.Resources.resources
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbproj.GenerateResource.cache
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.vbproj.CoreCompileInputs.cache
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.exe
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.xml
+C:\Users\informa2\Documents\Archivo deshechable\Segundo-Examen-Parcial-M\Segundo-Examen-Parcial-main\Teto Tycoon\Teto Tycoon\obj\Debug\Teto Tycoon.pdb

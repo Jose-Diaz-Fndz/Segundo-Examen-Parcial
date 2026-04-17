@@ -32,6 +32,7 @@ Partial Class Form1
         Me.SrSeed = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Label1 = New System.Windows.Forms.Label()
+        Me.GUMI = New System.Windows.Forms.Label()
         CType(Me.MikuEatingTeto, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Baguettes, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -43,24 +44,24 @@ Partial Class Form1
         Me.Teto.ForeColor = System.Drawing.Color.Salmon
         Me.Teto.Location = New System.Drawing.Point(114, 9)
         Me.Teto.Name = "Teto"
-        Me.Teto.Size = New System.Drawing.Size(197, 29)
+        Me.Teto.Size = New System.Drawing.Size(178, 29)
         Me.Teto.TabIndex = 0
-        Me.Teto.Text = "Total of eating : 0"
+        Me.Teto.Text = "Total of eating :"
         '
         'MikuDayo
         '
         Me.MikuDayo.FormattingEnabled = True
         Me.MikuDayo.Items.AddRange(New Object() {"Normal", "Crazy (x2)", "EXTREME (x3)"})
-        Me.MikuDayo.Location = New System.Drawing.Point(29, 104)
+        Me.MikuDayo.Location = New System.Drawing.Point(62, 89)
         Me.MikuDayo.Name = "MikuDayo"
         Me.MikuDayo.Size = New System.Drawing.Size(121, 21)
         Me.MikuDayo.TabIndex = 1
         '
         'SoldierTeto
         '
-        Me.SoldierTeto.Location = New System.Drawing.Point(45, 171)
+        Me.SoldierTeto.Location = New System.Drawing.Point(62, 143)
         Me.SoldierTeto.Name = "SoldierTeto"
-        Me.SoldierTeto.Size = New System.Drawing.Size(75, 23)
+        Me.SoldierTeto.Size = New System.Drawing.Size(119, 48)
         Me.SoldierTeto.TabIndex = 2
         Me.SoldierTeto.Text = "Eating"
         Me.SoldierTeto.UseVisualStyleBackColor = True
@@ -91,7 +92,8 @@ Partial Class Form1
         'PPPTeto
         '
         Me.PPPTeto.AutoSize = True
-        Me.PPPTeto.Location = New System.Drawing.Point(23, 224)
+        Me.PPPTeto.ForeColor = System.Drawing.SystemColors.Control
+        Me.PPPTeto.Location = New System.Drawing.Point(32, 214)
         Me.PPPTeto.Name = "PPPTeto"
         Me.PPPTeto.Size = New System.Drawing.Size(78, 13)
         Me.PPPTeto.TabIndex = 5
@@ -100,11 +102,12 @@ Partial Class Form1
         'SrSeed
         '
         Me.SrSeed.AutoSize = True
-        Me.SrSeed.Location = New System.Drawing.Point(116, 224)
+        Me.SrSeed.ForeColor = System.Drawing.Color.Cyan
+        Me.SrSeed.Location = New System.Drawing.Point(135, 214)
         Me.SrSeed.Name = "SrSeed"
-        Me.SrSeed.Size = New System.Drawing.Size(22, 13)
+        Me.SrSeed.Size = New System.Drawing.Size(34, 13)
         Me.SrSeed.TabIndex = 6
-        Me.SrSeed.Text = "00:"
+        Me.SrSeed.Text = "00:00"
         '
         'Timer1
         '
@@ -115,15 +118,27 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(135, 224)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(19, 13)
+        Me.Label1.Size = New System.Drawing.Size(0, 13)
         Me.Label1.TabIndex = 7
-        Me.Label1.Text = "00"
+        '
+        'GUMI
+        '
+        Me.GUMI.AutoSize = True
+        Me.GUMI.Font = New System.Drawing.Font("Modak", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.GUMI.ForeColor = System.Drawing.Color.Salmon
+        Me.GUMI.Location = New System.Drawing.Point(284, 5)
+        Me.GUMI.Name = "GUMI"
+        Me.GUMI.Size = New System.Drawing.Size(34, 41)
+        Me.GUMI.TabIndex = 8
+        Me.GUMI.Text = "0"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.DarkRed
         Me.ClientSize = New System.Drawing.Size(510, 258)
+        Me.Controls.Add(Me.GUMI)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.SrSeed)
         Me.Controls.Add(Me.PPPTeto)
@@ -150,4 +165,5 @@ Partial Class Form1
     Friend WithEvents SrSeed As Label
     Friend WithEvents Timer1 As Timer
     Friend WithEvents Label1 As Label
+    Friend WithEvents GUMI As Label
 End Class
